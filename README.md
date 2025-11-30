@@ -4,7 +4,7 @@
 
 ![Preview do Projeto](./Screenshot.png)
 
-Você pode visualizar o layout do projeto através [deste link](...).
+Você pode visualizar o layout do projeto através [deste link](https://cjzinn.github.io/grove-street-calculator/).
 ## 💻 Sobre o Projeto
 
 Este projeto é uma **Calculadora Web** desenvolvida com foco em UI Design moderno. A ideia foi unir a nostalgia do **GTA San Andreas** com as tendências atuais de design de interfaces.
@@ -31,4 +31,4 @@ O projeto não é apenas visual, o "motor" JavaScript foi aprimorado para uso re
 
 1. **Clone o repositório:**
    ```bash
-   git clone ...
+   git clone https://github.com/Cjzinn/grove-street-calculator.git
